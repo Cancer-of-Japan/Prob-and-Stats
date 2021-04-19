@@ -1,0 +1,7 @@
+F74067036 常定 利
+>> load lamp_life.txt
+boxplot(lamp_life)
+xlabel('All Lamps')
+ylabel('Lmaps Life Time')
+title('Life of 50 lamps')
+>> 

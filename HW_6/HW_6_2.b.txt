@@ -1,0 +1,8 @@
+With Case 1, MUx and MUy are the only two things which are diffrent, 
+which caused to create similler sizd grouping on topl-left and botttom_right,
+which caused the boundary line to be tilted stright line.
+
+With Case 2, MUx and MUy and RHOx and RHOy are additional diffrent components,
+which caused to create unequal sized grouping on topl-left and botttom_right.
+From this, we could see RHO components affects the size/consentration of pattern,
+which caused the boundary line to be curved.

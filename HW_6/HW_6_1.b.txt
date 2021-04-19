@@ -1,0 +1,2 @@
+By making the number larger, band of ofthe cuircle will be narrower, 
+which cause to be like oval shape, if the rho is -, in will be inverted.
